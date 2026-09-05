@@ -31,7 +31,7 @@ Proceso Ejercicio_10
 		Escribir "Ingrese una palabra";
 		Leer palabra;
 		palindromo <- es_palindromo(palabra);
-		Escribir "Es ", palindromo, " que la frase ingresa es un palindromo";
+		Escribir "Es ", palindromo, " que la palabra ingresada es un palindromo";
 		Escribir "Desea repetir el programa (s/n)";
 		Leer rep;
 		rep <- Minusculas(rep);
