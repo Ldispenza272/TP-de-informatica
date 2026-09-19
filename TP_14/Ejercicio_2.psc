@@ -32,7 +32,7 @@ Proceso Ejercicio_2
 			resultado <- calcular_factorial(num);
 			Escribir "El factorial es: ", resultado;
 		SiNo
-			Escribir "Ingrese un número positivo";
+			Escribir "Ingrese un número positivo ";
 		FinSi
 		Escribir "Desea repetir el programa (si), sino presione cualquier tecla";
 		Leer rep;

@@ -12,7 +12,7 @@ while rep == "si":
         print("El resultado de la suma es: ", resultado)
     else:
         print("Ingresó mal el número")
-    rep = str(input("Desea repetir el programa (si), sino presione cualquier tecla: "))
-    rep = rep.lower 
+    rep = input("Desea repetir el programa (si), sino presione cualquier tecla: ")
+    rep = rep.lower()
 
     
